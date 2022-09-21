@@ -1,5 +1,5 @@
-Simulation of dRAIN
-===================
+TANGLE SIMULATION
+=================
 This repository contains the code with all the functions required to perform the simulation
 described in the article _dRAIN: A distributed Reliable Architecture for IoT Networks_.
 The code written in a python notebook is divided into two cells:
